@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/alfcano/alfcano.r-universe.dev
 	branch = HEAD
-[submodule "rk.aiken_v"]
-	path = rk.aiken_v
-	url = https://github.com/AlfCano/rk.aiken_v
+[submodule "rk.aiken.v"]
+	path = rk.aiken.v
+	url = https://github.com/AlfCano/rk.aiken.v
 [submodule "rk.apyramid"]
 	path = rk.apyramid
 	url = https://github.com/AlfCano/rk.apyramid
