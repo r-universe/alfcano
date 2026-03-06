@@ -1,5 +1,139 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/alfcano/alfcano.r-universe.dev
 	branch = HEAD
+[submodule "rk.aiken_v"]
+	path = rk.aiken_v
+	url = https://github.com/AlfCano/rk.aiken_v
+[submodule "rk.apyramid"]
+	path = rk.apyramid
+	url = https://github.com/AlfCano/rk.apyramid
+[submodule "rk.bayesian"]
+	path = rk.bayesian
+	url = https://github.com/AlfCano/rk.bayesian
+[submodule "rk.cSplit"]
+	path = rk.cSplit
+	url = https://github.com/AlfCano/rk.cSplit
+[submodule "rk.cartographr"]
+	path = rk.cartographr
+	url = https://github.com/AlfCano/rk.cartographr
+[submodule "rk.class.lists"]
+	path = rk.class.lists
+	url = https://github.com/AlfCano/rk.class.lists
+[submodule "rk.codebook"]
+	path = rk.codebook
+	url = https://github.com/AlfCano/rk.codebook
+[submodule "rk.ctables"]
+	path = rk.ctables
+	url = https://github.com/AlfCano/rk.ctables
+[submodule "rk.data.wrangling"]
+	path = rk.data.wrangling
+	url = https://github.com/AlfCano/rk.data.wrangling
+[submodule "rk.dates"]
+	path = rk.dates
+	url = https://github.com/AlfCano/rk.dates
+[submodule "rk.ddi.import"]
+	path = rk.ddi.import
+	url = https://github.com/AlfCano/rk.ddi.import
+[submodule "rk.doe"]
+	path = rk.doe
+	url = https://github.com/AlfCano/rk.doe
+[submodule "rk.dplyr"]
+	path = rk.dplyr
+	url = https://github.com/AlfCano/rk.dplyr
+[submodule "rk.fastdummies"]
+	path = rk.fastdummies
+	url = https://github.com/AlfCano/rk.fastdummies
+[submodule "rk.flextable"]
+	path = rk.flextable
+	url = https://github.com/AlfCano/rk.flextable
+[submodule "rk.forcats"]
+	path = rk.forcats
+	url = https://github.com/AlfCano/rk.forcats
+[submodule "rk.ggsurvey"]
+	path = rk.ggsurvey
+	url = https://github.com/AlfCano/rk.ggsurvey
+[submodule "rk.googlesheets4"]
+	path = rk.googlesheets4
+	url = https://github.com/AlfCano/rk.googlesheets4
+[submodule "rk.gsub.sub"]
+	path = rk.gsub.sub
+	url = https://github.com/AlfCano/rk.gsub.sub
+[submodule "rk.gtsummary"]
+	path = rk.gtsummary
+	url = https://github.com/AlfCano/rk.gtsummary
+[submodule "rk.janitor"]
+	path = rk.janitor
+	url = https://github.com/AlfCano/rk.janitor
+[submodule "rk.lavaan"]
+	path = rk.lavaan
+	url = https://github.com/AlfCano/rk.lavaan
+[submodule "rk.lookup"]
+	path = rk.lookup
+	url = https://github.com/AlfCano/rk.lookup
+[submodule "rk.lubridate"]
+	path = rk.lubridate
+	url = https://github.com/AlfCano/rk.lubridate
+[submodule "rk.map.globalities"]
+	path = rk.map.globalities
+	url = https://github.com/AlfCano/rk.map.globalities
+[submodule "rk.map.localities"]
+	path = rk.map.localities
+	url = https://github.com/AlfCano/rk.map.localities
+[submodule "rk.mult.resp"]
+	path = rk.mult.resp
+	url = https://github.com/AlfCano/rk.mult.resp
+[submodule "rk.names.labels"]
+	path = rk.names.labels
+	url = https://github.com/AlfCano/rk.names.labels
+[submodule "rk.pivot.reshape"]
+	path = rk.pivot.reshape
+	url = https://github.com/AlfCano/rk.pivot.reshape
+[submodule "rk.psych"]
+	path = rk.psych
+	url = https://github.com/AlfCano/rk.psych
+[submodule "rk.qcc"]
+	path = rk.qcc
+	url = https://github.com/AlfCano/rk.qcc
+[submodule "rk.questionr"]
+	path = rk.questionr
+	url = https://github.com/AlfCano/rk.questionr
+[submodule "rk.rnaturalearth"]
+	path = rk.rnaturalearth
+	url = https://github.com/AlfCano/rk.rnaturalearth
+[submodule "rk.shiny.plugins"]
+	path = rk.shiny.plugins
+	url = https://github.com/AlfCano/rk.shiny.plugins
+[submodule "rk.six.sigma"]
+	path = rk.six.sigma
+	url = https://github.com/AlfCano/rk.six.sigma
+[submodule "rk.storytelling.data"]
+	path = rk.storytelling.data
+	url = https://github.com/AlfCano/rk.storytelling.data
+[submodule "rk.storytelling.survey"]
+	path = rk.storytelling.survey
+	url = https://github.com/AlfCano/rk.storytelling.survey
+[submodule "rk.stringr"]
+	path = rk.stringr
+	url = https://github.com/AlfCano/rk.stringr
+[submodule "rk.survey.design"]
+	path = rk.survey.design
+	url = https://github.com/AlfCano/rk.survey.design
+[submodule "rk.survey.wrangling"]
+	path = rk.survey.wrangling
+	url = https://github.com/AlfCano/rk.survey.wrangling
+[submodule "rk.survival"]
+	path = rk.survival
+	url = https://github.com/AlfCano/rk.survival
+[submodule "rk.svyplot"]
+	path = rk.svyplot
+	url = https://github.com/AlfCano/rk.svyplot
+[submodule "rk.tidyr"]
+	path = rk.tidyr
+	url = https://github.com/AlfCano/rk.tidyr
+[submodule "rk.transpose.df"]
+	path = rk.transpose.df
+	url = https://github.com/AlfCano/rk.transpose.df
+[submodule "rk.weibull"]
+	path = rk.weibull
+	url = https://github.com/AlfCano/rk.weibull
