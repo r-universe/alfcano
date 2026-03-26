@@ -23,6 +23,9 @@
 [submodule "rk.codebook"]
 	path = rk.codebook
 	url = https://github.com/AlfCano/rk.codebook
+[submodule "rk.correspondence"]
+	path = rk.correspondence
+	url = https://github.com/AlfCano/rk.correspondence
 [submodule "rk.ctables"]
 	path = rk.ctables
 	url = https://github.com/AlfCano/rk.ctables
