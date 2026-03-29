@@ -131,6 +131,9 @@
 [submodule "rk.svyplot"]
 	path = rk.svyplot
 	url = https://github.com/AlfCano/rk.svyplot
+[submodule "rk.text.mining"]
+	path = rk.text.mining
+	url = https://github.com/AlfCano/rk.text.mining
 [submodule "rk.tidyr"]
 	path = rk.tidyr
 	url = https://github.com/AlfCano/rk.tidyr
