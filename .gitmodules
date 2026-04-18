@@ -101,6 +101,9 @@
 [submodule "rk.questionr"]
 	path = rk.questionr
 	url = https://github.com/AlfCano/rk.questionr
+[submodule "rk.rmd"]
+	path = rk.rmd
+	url = https://github.com/AlfCano/rk.rmd
 [submodule "rk.rnaturalearth"]
 	path = rk.rnaturalearth
 	url = https://github.com/AlfCano/rk.rnaturalearth
