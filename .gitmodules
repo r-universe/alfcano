@@ -89,6 +89,9 @@
 [submodule "rk.names.labels"]
 	path = rk.names.labels
 	url = https://github.com/AlfCano/rk.names.labels
+[submodule "rk.network.graphs"]
+	path = rk.network.graphs
+	url = https://github.com/AlfCano/rk.network.graphs
 [submodule "rk.pivot.reshape"]
 	path = rk.pivot.reshape
 	url = https://github.com/AlfCano/rk.pivot.reshape
