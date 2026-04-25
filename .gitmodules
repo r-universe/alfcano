@@ -44,6 +44,9 @@
 [submodule "rk.dplyr"]
 	path = rk.dplyr
 	url = https://github.com/AlfCano/rk.dplyr
+[submodule "rk.exporter"]
+	path = rk.exporter
+	url = https://github.com/AlfCano/rk.exporter
 [submodule "rk.fastdummies"]
 	path = rk.fastdummies
 	url = https://github.com/AlfCano/rk.fastdummies
