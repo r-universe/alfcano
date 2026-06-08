@@ -44,6 +44,9 @@
 [submodule "rk.dplyr"]
 	path = rk.dplyr
 	url = https://github.com/AlfCano/rk.dplyr
+[submodule "rk.effect.sizes"]
+	path = rk.effect.sizes
+	url = https://github.com/AlfCano/rk.effect.sizes
 [submodule "rk.exporter"]
 	path = rk.exporter
 	url = https://github.com/AlfCano/rk.exporter
@@ -68,6 +71,9 @@
 [submodule "rk.gtsummary"]
 	path = rk.gtsummary
 	url = https://github.com/AlfCano/rk.gtsummary
+[submodule "rk.interactive.bi"]
+	path = rk.interactive.bi
+	url = https://github.com/AlfCano/rk.interactive.bi
 [submodule "rk.janitor"]
 	path = rk.janitor
 	url = https://github.com/AlfCano/rk.janitor
