@@ -161,3 +161,6 @@
 [submodule "rk.weibull"]
 	path = rk.weibull
 	url = https://github.com/AlfCano/rk.weibull
+[submodule "rk.word.cloud"]
+	path = rk.word.cloud
+	url = https://github.com/AlfCano/rk.word.cloud
