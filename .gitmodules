@@ -74,6 +74,9 @@
 [submodule "rk.interactive.bi"]
 	path = rk.interactive.bi
 	url = https://github.com/AlfCano/rk.interactive.bi
+[submodule "rk.ipumsr"]
+	path = rk.ipumsr
+	url = https://github.com/AlfCano/rk.ipumsr
 [submodule "rk.janitor"]
 	path = rk.janitor
 	url = https://github.com/AlfCano/rk.janitor
