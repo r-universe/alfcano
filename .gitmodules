@@ -59,6 +59,9 @@
 [submodule "rk.forcats"]
 	path = rk.forcats
 	url = https://github.com/AlfCano/rk.forcats
+[submodule "rk.gganimate"]
+	path = rk.gganimate
+	url = https://github.com/AlfCano/rk.gganimate
 [submodule "rk.ggsurvey"]
 	path = rk.ggsurvey
 	url = https://github.com/AlfCano/rk.ggsurvey
