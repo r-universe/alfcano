@@ -17,6 +17,9 @@
 [submodule "rk.cartographr"]
 	path = rk.cartographr
 	url = https://github.com/AlfCano/rk.cartographr
+[submodule "rk.case.if"]
+	path = rk.case.if
+	url = https://github.com/AlfCano/rk.case.if
 [submodule "rk.class.lists"]
 	path = rk.class.lists
 	url = https://github.com/AlfCano/rk.class.lists
