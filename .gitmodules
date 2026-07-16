@@ -71,6 +71,9 @@
 [submodule "rk.googlesheets4"]
 	path = rk.googlesheets4
 	url = https://github.com/AlfCano/rk.googlesheets4
+[submodule "rk.grateful"]
+	path = rk.grateful
+	url = https://github.com/AlfCano/rk.grateful
 [submodule "rk.gsub.sub"]
 	path = rk.gsub.sub
 	url = https://github.com/AlfCano/rk.gsub.sub
