@@ -122,6 +122,9 @@
 [submodule "rk.qcc"]
 	path = rk.qcc
 	url = https://github.com/AlfCano/rk.qcc
+[submodule "rk.quarto"]
+	path = rk.quarto
+	url = https://github.com/AlfCano/rk.quarto
 [submodule "rk.questionr"]
 	path = rk.questionr
 	url = https://github.com/AlfCano/rk.questionr
