@@ -47,6 +47,9 @@
 [submodule "rk.dplyr"]
 	path = rk.dplyr
 	url = https://github.com/AlfCano/rk.dplyr
+[submodule "rk.efa"]
+	path = rk.efa
+	url = https://github.com/AlfCano/rk.efa
 [submodule "rk.effect.sizes"]
 	path = rk.effect.sizes
 	url = https://github.com/AlfCano/rk.effect.sizes
