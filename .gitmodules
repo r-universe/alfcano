@@ -152,6 +152,9 @@
 [submodule "rk.stringr"]
 	path = rk.stringr
 	url = https://github.com/AlfCano/rk.stringr
+[submodule "rk.subset.tidy"]
+	path = rk.subset.tidy
+	url = https://github.com/AlfCano/rk.subset.tidy
 [submodule "rk.survey.design"]
 	path = rk.survey.design
 	url = https://github.com/AlfCano/rk.survey.design
