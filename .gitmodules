@@ -83,6 +83,9 @@
 [submodule "rk.gtsummary"]
 	path = rk.gtsummary
 	url = https://github.com/AlfCano/rk.gtsummary
+[submodule "rk.haven"]
+	path = rk.haven
+	url = https://github.com/AlfCano/rk.haven
 [submodule "rk.interactive.bi"]
 	path = rk.interactive.bi
 	url = https://github.com/AlfCano/rk.interactive.bi
