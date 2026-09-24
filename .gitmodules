@@ -182,6 +182,9 @@
 [submodule "rk.transpose.df"]
 	path = rk.transpose.df
 	url = https://github.com/AlfCano/rk.transpose.df
+[submodule "rk.universe"]
+	path = rk.universe
+	url = https://github.com/AlfCano/rk.universe
 [submodule "rk.weibull"]
 	path = rk.weibull
 	url = https://github.com/AlfCano/rk.weibull
