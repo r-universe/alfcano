@@ -179,6 +179,9 @@
 [submodule "rk.tidyr"]
 	path = rk.tidyr
 	url = https://github.com/AlfCano/rk.tidyr
+[submodule "rk.traminer"]
+	path = rk.traminer
+	url = https://github.com/AlfCano/rk.traminer
 [submodule "rk.transpose.df"]
 	path = rk.transpose.df
 	url = https://github.com/AlfCano/rk.transpose.df
