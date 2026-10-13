@@ -179,6 +179,9 @@
 [submodule "rk.tidyr"]
 	path = rk.tidyr
 	url = https://github.com/AlfCano/rk.tidyr
+[submodule "rk.tinyplot"]
+	path = rk.tinyplot
+	url = https://github.com/AlfCano/rk.tinyplot
 [submodule "rk.traminer"]
 	path = rk.traminer
 	url = https://github.com/AlfCano/rk.traminer
