@@ -140,6 +140,9 @@
 [submodule "rk.rnaturalearth"]
 	path = rk.rnaturalearth
 	url = https://github.com/AlfCano/rk.rnaturalearth
+[submodule "rk.rstatix"]
+	path = rk.rstatix
+	url = https://github.com/AlfCano/rk.rstatix
 [submodule "rk.shiny.plugins"]
 	path = rk.shiny.plugins
 	url = https://github.com/AlfCano/rk.shiny.plugins
