@@ -185,6 +185,9 @@
 [submodule "rk.tinyplot"]
 	path = rk.tinyplot
 	url = https://github.com/AlfCano/rk.tinyplot
+[submodule "rk.tinytable"]
+	path = rk.tinytable
+	url = https://github.com/AlfCano/rk.tinytable
 [submodule "rk.traminer"]
 	path = rk.traminer
 	url = https://github.com/AlfCano/rk.traminer
