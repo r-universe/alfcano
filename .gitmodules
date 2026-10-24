@@ -32,6 +32,9 @@
 [submodule "rk.ctables"]
 	path = rk.ctables
 	url = https://github.com/AlfCano/rk.ctables
+[submodule "rk.data.table"]
+	path = rk.data.table
+	url = https://github.com/AlfCano/rk.data.table
 [submodule "rk.data.wrangling"]
 	path = rk.data.wrangling
 	url = https://github.com/AlfCano/rk.data.wrangling
