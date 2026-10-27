@@ -68,6 +68,9 @@
 [submodule "rk.forcats"]
 	path = rk.forcats
 	url = https://github.com/AlfCano/rk.forcats
+[submodule "rk.forecast"]
+	path = rk.forecast
+	url = https://github.com/AlfCano/rk.forecast
 [submodule "rk.gganimate"]
 	path = rk.gganimate
 	url = https://github.com/AlfCano/rk.gganimate
