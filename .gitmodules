@@ -11,6 +11,9 @@
 [submodule "rk.bayesian"]
 	path = rk.bayesian
 	url = https://github.com/AlfCano/rk.bayesian
+[submodule "rk.business.mining"]
+	path = rk.business.mining
+	url = https://github.com/AlfCano/rk.business.mining
 [submodule "rk.cSplit"]
 	path = rk.cSplit
 	url = https://github.com/AlfCano/rk.cSplit
