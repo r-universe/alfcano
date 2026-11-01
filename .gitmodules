@@ -203,6 +203,9 @@
 [submodule "rk.transpose.df"]
 	path = rk.transpose.df
 	url = https://github.com/AlfCano/rk.transpose.df
+[submodule "rk.tuning"]
+	path = rk.tuning
+	url = https://github.com/AlfCano/rk.tuning
 [submodule "rk.universe"]
 	path = rk.universe
 	url = https://github.com/AlfCano/rk.universe
