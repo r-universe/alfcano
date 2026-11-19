@@ -203,6 +203,12 @@
 [submodule "rk.transpose.df"]
 	path = rk.transpose.df
 	url = https://github.com/AlfCano/rk.transpose.df
+[submodule "rk.ts.models"]
+	path = rk.ts.models
+	url = https://github.com/AlfCano/rk.ts.models
+[submodule "rk.ts.prep"]
+	path = rk.ts.prep
+	url = https://github.com/AlfCano/rk.ts.prep
 [submodule "rk.tuning"]
 	path = rk.tuning
 	url = https://github.com/AlfCano/rk.tuning
