@@ -209,6 +209,9 @@
 [submodule "rk.ts.prep"]
 	path = rk.ts.prep
 	url = https://github.com/AlfCano/rk.ts.prep
+[submodule "rk.ts.pro"]
+	path = rk.ts.pro
+	url = https://github.com/AlfCano/rk.ts.pro
 [submodule "rk.tuning"]
 	path = rk.tuning
 	url = https://github.com/AlfCano/rk.tuning
